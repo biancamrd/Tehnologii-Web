@@ -1,0 +1,155 @@
+body{
+    background-color: #EFFFFD;
+    color: #256D85;
+    margin: 0;
+    text-align: center;
+    font-family: 'Fraunces', serif;
+}
+
+h1{
+    color: #256D85;
+    font-size: 60px;
+    margin: 7px;
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+
+h3{
+    color: #256D85;
+    font-size: 20px;
+    font-family: 'Fraunces', serif;
+}
+
+h2{
+    color: #256D85;
+    font-family: 'Fraunces', serif;
+    font-size: 50px;
+}
+
+.first-div{
+    background-color: #769FCD;
+    text-align: center;
+    padding-top: 80px;
+  
+}
+
+.second-div{
+    background-color: #EFFFFD;
+    padding-bottom: 20px;
+}
+
+.third-div{
+    background-color: #D6E6F2; 
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.fourth-div{
+    background-color: #EFFFFD;
+}
+
+.fifth-div{
+    background-color: #769FCD;
+    padding: 50px  20px;
+   
+}
+
+.mountain{
+    padding-top: 20;
+    padding-bottom: 20px;
+}
+
+
+
+
+.skill{
+    width: 35%;
+    text-align: left;
+    
+}
+
+.sskill{
+    width: 100%;
+    text-align: right;
+    
+}
+
+.hs{
+    text-align: left;
+}
+
+.ss{
+    text-align: right;
+}
+
+ .codding{
+    width: 14%;
+    float: left;
+    margin-right: 70px; 
+ }
+
+ .basketball{
+    width: 14%;
+    float: right;
+    margin-left: 70px;
+ }
+
+ .mnt{
+    width: 14%;
+    float: left;
+    margin-right: 70px; 
+ }
+
+ .team{
+    width: 6%;
+    float: right;
+    margin-left: 70px; 
+     
+ }
+
+ .com{
+    width: 6%;
+    float: left;
+    margin-left: 880px;
+ }
+
+ .mot{
+    width: 6%;
+    float: right;
+    margin-left: 70px; 
+    
+ }
+ 
+.contact-button {
+    padding: 10px 20px 10px 20px;
+    border: 1px solid #256D85;
+    border-radius: 25px;
+    font-family: 'Fraunces', serif;
+    font-size: 20px;
+    background-color: #06283D;
+    color: #fefefe; 
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;  
+    margin: 20px;
+}
+
+.social-media{
+    color: #256D85;
+    font-family: 'Fraunces', serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+.copyright{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #06283D;
+}
+
+a:hover {
+    color: #EAF6F6;
+  }
+
+
+  
